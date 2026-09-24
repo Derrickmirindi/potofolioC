@@ -1,0 +1,142 @@
+[
+  {
+    "name": "dr-colon-portrait",
+    "pdf_object": 68,
+    "width": 878,
+    "height": 878,
+    "file": "assets/dr-colon-portrait.webp"
+  },
+  {
+    "name": "signature-primary",
+    "pdf_object": 69,
+    "width": 838,
+    "height": 225,
+    "file": "assets/signature-primary.webp"
+  },
+  {
+    "name": "original-introduction",
+    "pdf_object": 70,
+    "width": 1918,
+    "height": 695,
+    "file": "assets/original-introduction.webp"
+  },
+  {
+    "name": "dr-colon-pink-portrait",
+    "pdf_object": 73,
+    "width": 502,
+    "height": 502,
+    "file": "assets/dr-colon-pink-portrait.webp"
+  },
+  {
+    "name": "signature-secondary",
+    "pdf_object": 76,
+    "width": 373,
+    "height": 100,
+    "file": "assets/signature-secondary.webp"
+  },
+  {
+    "name": "original-who-am-i",
+    "pdf_object": 130,
+    "width": 1126,
+    "height": 291,
+    "file": "assets/original-who-am-i.webp"
+  },
+  {
+    "name": "consulting",
+    "pdf_object": 78,
+    "width": 1080,
+    "height": 720,
+    "file": "assets/consulting.webp"
+  },
+  {
+    "name": "original-consulting",
+    "pdf_object": 185,
+    "width": 1103,
+    "height": 293,
+    "file": "assets/original-consulting.webp"
+  },
+  {
+    "name": "original-services",
+    "pdf_object": 189,
+    "width": 1006,
+    "height": 316,
+    "file": "assets/original-services.webp"
+  },
+  {
+    "name": "mamtha-bansal",
+    "pdf_object": 146,
+    "width": 626,
+    "height": 939,
+    "file": "assets/mamtha-bansal.webp"
+  },
+  {
+    "name": "ria-kumaran",
+    "pdf_object": 149,
+    "width": 1239,
+    "height": 826,
+    "file": "assets/ria-kumaran.webp"
+  },
+  {
+    "name": "marcus-brown",
+    "pdf_object": 152,
+    "width": 1204,
+    "height": 803,
+    "file": "assets/marcus-brown.webp"
+  },
+  {
+    "name": "original-reviews",
+    "pdf_object": 198,
+    "width": 1030,
+    "height": 536,
+    "file": "assets/original-reviews.webp"
+  },
+  {
+    "name": "original-client",
+    "pdf_object": 202,
+    "width": 1429,
+    "height": 628,
+    "file": "assets/original-client.webp"
+  },
+  {
+    "name": "positive-affirmation",
+    "pdf_object": 88,
+    "width": 982,
+    "height": 786,
+    "file": "assets/positive-affirmation.webp"
+  },
+  {
+    "name": "payment-brands",
+    "pdf_object": 90,
+    "width": 245,
+    "height": 57,
+    "file": "assets/payment-brands.webp"
+  },
+  {
+    "name": "mastercard",
+    "pdf_object": 91,
+    "width": 134,
+    "height": 68,
+    "file": "assets/mastercard.webp"
+  },
+  {
+    "name": "original-contact",
+    "pdf_object": 210,
+    "width": 790,
+    "height": 288,
+    "file": "assets/original-contact.webp"
+  },
+  {
+    "name": "original-me",
+    "pdf_object": 214,
+    "width": 705,
+    "height": 482,
+    "file": "assets/original-me.webp"
+  },
+  {
+    "name": "original-payments",
+    "pdf_object": 169,
+    "width": 949,
+    "height": 758,
+    "file": "assets/original-payments.webp"
+  }
+]
